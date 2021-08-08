@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\DetectPangramTest::test_Sentence_Is_a_Pangram":3},"times":{"Tests\\DetectPangramTest::test_Sentence_Is_a_Pangram":0.004}}
